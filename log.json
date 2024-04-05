@@ -1,5 +1,5 @@
 {
-	"LastUpdate": "2024-04-05 12:45:00Z",
+	"LastUpdate": "2024-04-05 13:00:00Z",
 	"Application": [{
 		"Name": "uTorrent *",
 		"Version": "*",
@@ -8,6 +8,6 @@
 	}, {
 		"Name": "uTorrent ??.??",
 		"Version": "*",
-		"Type": "msi"
+		"Type": "*"
 	}]
 }
