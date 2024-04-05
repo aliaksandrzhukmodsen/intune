@@ -1,8 +1,13 @@
 {
-	"LastUpdate": "2023-08-20 00:00:00Z",
+	"LastUpdate": "2023-08-20 15:35:50Z",
 	"Application": [{
-		"Name": "uTorrent",
+		"Name": "uTorrent *",
 		"Version": "*",
-		"Type": "/S"
+		"Type": "programs",
+		"SilentArg": "/S"
+	}, {
+		"Name": "uTorrent ??.??",
+		"Version": "*",
+		"Type": "msi"
 	}]
 }
